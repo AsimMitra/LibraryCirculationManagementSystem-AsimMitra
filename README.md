@@ -1,0 +1,2 @@
+# LibraryCirculationManagementSystem-AsimMitra
+Library Circulation Management System is a project which aims in developing a computerized system to maintain all the daily work of library. It provides better and efficient services to members. It reduce the workload of librarian, faster retrieval of information about the desired book, provide facility for proper monitoring,reduce paper work and provide data security.
